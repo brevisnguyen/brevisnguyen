@@ -17,8 +17,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brevisnguyen&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brevisnguyen&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brevisnguyen&theme=github_dark" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brevisnguyen&theme=github_dark" alt="Top languages" />
 </div>
 
 <div align="center">

@@ -1,0 +1,85 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Backend Developer Banner</title>
+  <desc id="desc">Dark modern banner with subtle grid and backend-themed terminal card.</desc>
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="lineGradient" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#58a6ff" stop-opacity="0.3"/>
+      <stop offset="55%" stop-color="#58a6ff" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bgGradient)"/>
+
+  <g opacity="0.18" stroke="#21262d" stroke-width="1">
+    <path d="M0 40H1200"/>
+    <path d="M0 80H1200"/>
+    <path d="M0 120H1200"/>
+    <path d="M0 160H1200"/>
+    <path d="M0 200H1200"/>
+    <path d="M0 240H1200"/>
+    <path d="M0 280H1200"/>
+    <path d="M120 0V300"/>
+    <path d="M240 0V300"/>
+    <path d="M360 0V300"/>
+    <path d="M480 0V300"/>
+    <path d="M600 0V300"/>
+    <path d="M720 0V300"/>
+    <path d="M840 0V300"/>
+    <path d="M960 0V300"/>
+    <path d="M1080 0V300"/>
+  </g>
+
+  <rect x="56" y="58" width="620" height="184" rx="14" fill="#0b0f14" stroke="#21262d" stroke-width="1.5"/>
+  <rect x="56" y="58" width="620" height="30" rx="14" fill="#11161d" />
+  <circle cx="81" cy="73" r="5" fill="#f85149"/>
+  <circle cx="99" cy="73" r="5" fill="#f2cc60"/>
+  <circle cx="117" cy="73" r="5" fill="#3fb950"/>
+
+  <text x="145" y="78" fill="#8b949e" font-size="14" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    ~/services/profile
+  </text>
+
+  <text x="84" y="124" fill="#58a6ff" font-size="28" font-weight="700" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    Brevis Nguyen
+  </text>
+  <text x="84" y="158" fill="#c9d1d9" font-size="22" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    Backend Developer
+  </text>
+  <text x="84" y="192" fill="#8b949e" font-size="16" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    Building reliable APIs, scalable systems, and clean architecture.
+  </text>
+
+  <path d="M74 210H430" stroke="url(#lineGradient)" stroke-width="2" filter="url(#softGlow)"/>
+
+  <g transform="translate(742 72)">
+    <rect width="398" height="156" rx="14" fill="#0b0f14" stroke="#21262d"/>
+    <text x="24" y="36" fill="#3fb950" font-size="14" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+      $ uptime
+    </text>
+    <text x="24" y="62" fill="#c9d1d9" font-size="14" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+      reliability: 99.95%
+    </text>
+    <text x="24" y="86" fill="#c9d1d9" font-size="14" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+      latency_p95: 120ms
+    </text>
+    <text x="24" y="110" fill="#c9d1d9" font-size="14" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+      stack: go | python | postgres | redis
+    </text>
+    <text x="24" y="134" fill="#8b949e" font-size="13" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+      # shipping stable software
+    </text>
+  </g>
+</svg>

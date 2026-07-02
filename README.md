@@ -58,25 +58,10 @@ I am a backend developer focused on system design, scalable APIs, performance op
 I enjoy building production-grade services with clear architecture, strong observability, and maintainable code.
 My current interests include distributed systems, event-driven architecture, and cloud-native operations.
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [ossubot](https://github.com/brevisnguyen/ossubot) | Telegram bot for large file uploads to Aliyun OSS via self-hosted Bot API. | Python, Docker, Telegram API |
-| [brevisnguyen](https://github.com/brevisnguyen/brevisnguyen) | This profile repository containing the current dark themed developer portfolio README. | Markdown, SVG, GitHub Actions |
-| Upcoming API Service | New backend system project focused on performance and reliability. | Go, PostgreSQL, Redis |
-| Upcoming Platform Tooling | Infrastructure and automation utilities for backend deployment workflows. | TypeScript, GitHub Actions, AWS |
-
 ## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117)](https://github.com/brevisnguyen)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0D1117)](mailto:brevisnguyen@gmail.com)
-
-## Contribution Activity (Optional)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/brevisnguyen/brevisnguyen/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-</div>
 
 ---
 

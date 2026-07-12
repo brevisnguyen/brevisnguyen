@@ -58,11 +58,12 @@
   <text x="84" y="158" fill="#c9d1d9" font-size="22" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace">
     Backend Developer
   </text>
-  <text x="84" y="192" fill="#8b949e" font-size="16" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace">
-    Building reliable APIs, scalable systems, and clean architecture.
+  <text x="84" y="186" fill="#8b949e" font-size="16" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <tspan x="84" dy="0">Building reliable APIs, scalable systems,</tspan>
+    <tspan x="84" dy="20">and clean architecture.</tspan>
   </text>
 
-  <path d="M74 210H430" stroke="url(#lineGradient)" stroke-width="2" filter="url(#softGlow)"/>
+  <path d="M74 220H430" stroke="url(#lineGradient)" stroke-width="2" filter="url(#softGlow)"/>
 
   <g transform="translate(742 72)">
     <rect width="398" height="156" rx="14" fill="#0b0f14" stroke="#21262d"/>

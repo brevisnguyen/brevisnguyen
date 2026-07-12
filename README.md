@@ -14,43 +14,9 @@
 
 </div>
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brevisnguyen&theme=github_dark" alt="GitHub stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brevisnguyen&theme=github_dark" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=brevisnguyen&theme=dark&background=0D1117&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
-</div>
-
 ## Tech Stack
 
-### Languages
-![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=58A6FF&labelColor=0D1117)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF&labelColor=0D1117)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF&labelColor=0D1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF&labelColor=0D1117)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=3FB950&labelColor=0D1117)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=3FB950&labelColor=0D1117)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=3FB950&labelColor=0D1117)
-![Gin](https://img.shields.io/badge/Gin-0D1117?style=for-the-badge&logo=go&logoColor=3FB950&labelColor=0D1117)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF&labelColor=0D1117)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=58A6FF&labelColor=0D1117)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=58A6FF&labelColor=0D1117)
-
-### Infra & Tools
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=58A6FF&labelColor=0D1117)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=58A6FF&labelColor=0D1117)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=58A6FF&labelColor=0D1117)
-![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=58A6FF&labelColor=0D1117)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=58A6FF&labelColor=0D1117)
-![Grafana](https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=58A6FF&labelColor=0D1117)
+Go · Python · Java · TypeScript · Node.js · FastAPI · Spring Boot · PostgreSQL · Redis · MongoDB · Docker · Kubernetes · AWS
 
 ## About
 
